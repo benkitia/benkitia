@@ -2,5 +2,5 @@
 
 ## Links
 
-- [Personal website](https://kitia.net)
-- [Email](https://kitia.net/email)
+- [Personal website](https://www.kitia.net)
+- [Email](https://www.kitia.net/email)
